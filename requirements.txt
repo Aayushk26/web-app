@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+numpy 
+pandas
+scipy
+pandas-datareader
+pillow
+seaborn
+datetime
+
